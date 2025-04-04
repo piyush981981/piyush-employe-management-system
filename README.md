@@ -1,2 +1,2 @@
 # piyush-employe-management-system
-E.M.S BY PIYUSH MANDAL
+ employe-management-system BY PIYUSH MANDAL
